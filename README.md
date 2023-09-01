@@ -10,3 +10,4 @@ Through meticulous data exploration, we've unearthed key insights. We've identif
 
 Conclusion and Learning:
 In closing, our project confirms the crucial role of location, pricing, and guest satisfaction in Airbnb's ecosystem. This analysis empowers hosts to craft compelling listings, and guests to secure delightful accommodations within their budgets. Engaging with this dataset has equipped us with practical data science skills, illuminating the mechanisms underlying the vibrant Airbnb market. As we conclude this journey, we recognize the invaluable insights gained and look forward to applying this newfound knowledge in our future endeavors, ensuring informed decision-making and enriched experiences.
+
